@@ -15,13 +15,13 @@
 ## 🛠 Tech Stack
 ```js
 // Core
-JavaScript (ES6+), TypeScript, Node.js (Basics)
+JavaScript (ES6+), TypeScript, NodeJS (Basics)
 // Frontend  
 React, Vue, JavaScipt, TypeScript
 // Architecture
 Feature-Sliced Design (FSD), Clean Code, Design Patterns
 // Tools
-Git, Webpack, Vite, Vim, VS Code
+Git, Webpack, Vite, Vim, VSCode
 ```
 
 <!--
