@@ -1,10 +1,9 @@
-# 👋 Привет, я Aleksandr Mironenko
+# 👋 Привет, Я Александр Мироненко
 
 **Frontend Developer | JS Specialist**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@real_script-2CA5E0?logo=telegram&style=flat)](https://t.me/real_script)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleksandr_Mironenko-0A66C2?logo=linkedin&style=flat)](https://linkedin.com/in/aleksandr-mironenko)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fillika&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/fillika)
 
 ---
 
